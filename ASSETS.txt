@@ -1,0 +1,27 @@
+Image assets for Lab 1, Resources and Localization
+
+All four illustrations are sourced from Wikimedia Commons and are rasterized from the linked original SVG files into the PNG resources used by the Android application. The source SVG files are retained in asset-source/.
+
+1. United States flag
+   Wikimedia Commons file: https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg
+   Source SVG: https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg
+   License: Public domain. The Commons file page identifies this as a flag drawing and a U.S. federal government work.
+   App resource: app/src/main/res/drawable/national_flag.png
+
+2. Ukraine flag
+   Wikimedia Commons file: https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg
+   Source SVG: https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ukraine.svg
+   License: Public domain as a state symbol under Article 8 of the Law of Ukraine on Copyright and Related Rights, as described on the Commons file page.
+   App resource: app/src/main/res/drawable-uk/national_flag.png
+
+3. Ukraine coat of arms, lesser coat of arms (Tryzub)
+   Wikimedia Commons file: https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Ukraine.svg
+   Source SVG: https://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_Arms_of_Ukraine.svg
+   License: Public domain as an officially adopted state symbol under Article 8 of the Law of Ukraine on Copyright and Related Rights, as described on the Commons file page.
+   App resource: app/src/main/res/drawable-uk/national_emblem.png
+
+4. United States coat of arms, Great Seal (obverse)
+   Wikimedia Commons file: https://commons.wikimedia.org/wiki/File:Great_Seal_of_the_United_States_(obverse).svg
+   Source SVG: https://commons.wikimedia.org/wiki/Special:FilePath/Great_Seal_of_the_United_States_(obverse).svg
+   License: Public domain as a work of the U.S. federal government, as described on the Commons file page. The page notes restrictions on use of the Great Seal to imply U.S. government sponsorship or approval. The student application uses it only to identify the national emblem in an educational exercise.
+   App resource: app/src/main/res/drawable/national_emblem.png

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resources and localization</string>
+    <string name="lab_label">LABORATORY WORK 01</string>
+    <string name="page_title">Resources &amp; localization</string>
+    <string name="student_surname">Kobylianska</string>
+    <string name="locale_caption">English · United States</string>
+    <string name="country_heading">National symbols</string>
+    <string name="flag_label">Flag</string>
+    <string name="emblem_label">Coat of arms</string>
+    <string name="flag_description">Flag of the United States of America</string>
+    <string name="emblem_description">Great Seal of the United States of America</string>
+    <string name="figure_description">Decorative geometric figure from an XML shape resource</string>
+</resources>

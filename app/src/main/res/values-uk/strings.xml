@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ресурси та локалізація</string>
+    <string name="lab_label">ЛАБОРАТОРНА РОБОТА 01</string>
+    <string name="page_title">Ресурси та локалізація</string>
+    <string name="student_surname">Кобилянська</string>
+    <string name="locale_caption">Українська · Україна</string>
+    <string name="country_heading">Національні символи</string>
+    <string name="flag_label">Прапор</string>
+    <string name="emblem_label">Герб</string>
+    <string name="flag_description">Державний прапор України</string>
+    <string name="emblem_description">Малий Державний Герб України, тризуб</string>
+    <string name="figure_description">Декоративна геометрична фігура з XML-ресурсу</string>
+</resources>
